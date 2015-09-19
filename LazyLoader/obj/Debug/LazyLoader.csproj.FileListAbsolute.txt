@@ -1,0 +1,20 @@
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\bin\Debug\LazyLoader.exe.config
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\bin\Debug\LazyLoader.exe
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\bin\Debug\LazyLoader.pdb
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\bin\Debug\EntityFramework.dll
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\bin\Debug\EntityFramework.xml
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\obj\Debug\LazyLoader.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\obj\Debug\LazyLoader.exe
+c:\users\frank\documents\visual studio 2013\Projects\LazyLoader\LazyLoader\obj\Debug\LazyLoader.pdb
+E:\GitHub\LazyLoader\LazyLoader\bin\Debug\LazyLoader.exe.config
+E:\GitHub\LazyLoader\LazyLoader\obj\Debug\LazyLoader.exe
+E:\GitHub\LazyLoader\LazyLoader\obj\Debug\LazyLoader.pdb
+E:\GitHub\LazyLoader\LazyLoader\bin\Debug\LazyLoader.exe
+E:\GitHub\LazyLoader\LazyLoader\bin\Debug\LazyLoader.pdb
+E:\GitHub\LazyLoader\LazyLoader\bin\Debug\EntityFramework.dll
+E:\GitHub\LazyLoader\LazyLoader\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\LazyLoader\LazyLoader\bin\Debug\EntityFramework.xml
+E:\GitHub\LazyLoader\LazyLoader\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\LazyLoader\LazyLoader\obj\Debug\LazyLoader.csprojResolveAssemblyReference.cache
